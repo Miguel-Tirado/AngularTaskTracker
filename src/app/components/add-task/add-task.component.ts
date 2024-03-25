@@ -25,6 +25,7 @@ export class AddTaskComponent implements OnInit{
       
   }
 
+  // Test
   onSubmit() {
     if(!this.text) {
       alert('Please add a task!');
