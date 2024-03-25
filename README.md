@@ -8,6 +8,8 @@ This is a simple Task Tracker App following instruction from Brad Treaversy Angu
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+Note To run you will need 2 instances of terminal One to run the angular server using `ng serve` and another terminal to run `npm run server` to run the JSON server.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
